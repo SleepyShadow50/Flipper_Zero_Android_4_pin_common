@@ -8,10 +8,13 @@ REM Author: defplex.wordpress.com
 REM Modified for Flipper Zero by rf-bandit
 REM ***USE AT OWN RISK***
 
-REM top 65 common pins
+REM top 66 common pins
 
 DELAY 500
 STRING 1234
+ENTER
+DELAY 500
+STRING 6894
 ENTER
 DELAY 500
 STRING 4321 
